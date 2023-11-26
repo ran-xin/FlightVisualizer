@@ -1,0 +1,8 @@
+Departure Airport, Arrival Airport
+HKG,LHR
+HKG,LHR
+LHR,GIB
+GIB,LHR
+ORD,LHR
+ORD,LGW
+LHR,ORD
